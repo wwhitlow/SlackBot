@@ -1,0 +1,9 @@
+start_script.sh
+messages.pyc
+dbinit.py
+prayerRequests.db
+logdbinit.py
+slackLog.db
+degreeDb.db
+degreedbinit.py
+.kofcDb.db
